@@ -1,0 +1,33 @@
+.active {
+  stroke: #000;
+  stroke-width: 2px;
+}
+
+.axis--x path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+#orizuru_line {
+  position: absolute;
+  top: 80px;
+  left: 525px;
+  width: 495px;
+  height: 368px;
+/*  border-style: solid; border-color: red; */
+}
+
+#orizuru_3D {
+  position: absolute;
+  top: 80px;
+  left: 10px;
+  width: 495px;
+  height: 368px;
+/*  border-style: solid; border-color: blue; */
+}
+
